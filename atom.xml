@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://eric600.github.io</id>
     <title>Gridea</title>
-    <updated>2020-03-19T04:49:14.040Z</updated>
+    <updated>2020-03-19T07:29:46.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://eric600.github.io"/>
     <link rel="self" href="https://eric600.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://eric600.github.io/images/avatar.png</logo>
     <icon>https://eric600.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[良心域名注册商Namecheep（非广告）]]></title>
+        <id>https://eric600.github.io/post/liang-xin-yu-ming-zhu-ce-shang-namecheepfei-guang-gao/</id>
+        <link href="https://eric600.github.io/post/liang-xin-yu-ming-zhu-ce-shang-namecheepfei-guang-gao/">
+        </link>
+        <updated>2020-03-19T07:17:18.000Z</updated>
+        <content type="html"><![CDATA[<p>Namecheeep有非常好的DNS服务，不会像Namesilo一样非常慢的DNS。<br>
+我觉得最便宜的域名是rocks结尾的，为什么不是xyz？因为xyz域名续费超贵，xyz续费比com还贵不建议长期使用xyz域名。</p>
+<p>购买流程：<br>
+1.输入想要的域名，例如 ectechnology.rocks<br>
+2.选择加入购物车<br>
+3.选择支付方式，可以支付宝。<br>
+4.下单后验证邮箱。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EC科技博客建立完成，分享一些小福利]]></title>
         <id>https://eric600.github.io/post/ec-ke-ji-bo-ke-jian-li-wan-cheng-fen-xiang-yi-xie-xiao-fu-li/</id>
