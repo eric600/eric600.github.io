@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://eric600.github.io</id>
     <title>Gridea</title>
-    <updated>2020-03-19T11:50:27.520Z</updated>
+    <updated>2020-03-19T11:53:47.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://eric600.github.io"/>
     <link rel="self" href="https://eric600.github.io/atom.xml"/>
@@ -16,7 +16,8 @@
         <link href="https://eric600.github.io/post/zhuan-zai-cc-by-sa-40-mian-fei-zhu-ce-wei-ruan-office365-jiao-yu-ban-onedrive-wang-pan-5t-kong-jian/">
         </link>
         <updated>2020-03-19T11:47:13.000Z</updated>
-        <content type="html"><![CDATA[<p>转载于：https://lykqq.com/%E6%95%99%E7%A8%8B/10.html<br>
+        <content type="html"><![CDATA[<p>如有侵权，请邮箱：ericqu6@gmail.com。感谢lyk blog提供的资源！<br>
+转载于：https://lykqq.com/%E6%95%99%E7%A8%8B/10.html<br>
 本作品采用 知识共享署名-相同方式共享 4.0 国际许可协议 进行许可。</p>
 <p>OneDrive是微软的网盘业务，拥有强大的在线Office云服务，可以在线编辑Word、Excel、PowerPoint等几乎等同于客户端的体验，并且可以多人协同编辑。<br>
 Office个人版免费只有5GB，购买office365可以获得1TB的空间，但是网页版目前无法正常访问。office365教育版和企业版是OneDrive business服务器，不受国内影响。<br>
@@ -54,7 +55,8 @@ https://t.odmail.cn/</p>
 <p>提示：不要使用教育版OneDrive存储重要问题或者隐私信息，对安全性要求比较高的话建议购买个人版office365。<br>
 这是登录地址：https://office.com（不用收藏也非常好记，office个人版教育版都是这个登录地址）</p>
 <p>建议可以用oneindex或者PyOne搭建自己的网盘下载站</p>
-<p>转载于：https://lykqq.com/%E6%95%99%E7%A8%8B/10.html<br>
+<p>如有侵权，请邮箱：ericqu6@gmail.com。感谢lyk blog提供的资源！<br>
+转载于：https://lykqq.com/%E6%95%99%E7%A8%8B/10.html<br>
 本作品采用 知识共享署名-相同方式共享 4.0 国际许可协议 进行许可。</p>
 ]]></content>
     </entry>
